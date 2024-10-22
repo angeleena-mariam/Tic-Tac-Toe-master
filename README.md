@@ -1,16 +1,10 @@
 # Tic-Tac-Toe-master
 Tic-Tac-Toe: A Brief Description  Tic-Tac-Toe is a classic two-player game .The game is known for its simplicity and is popular among children and adults alike. 
-Tic-Tac-Toe: A Brief Description
-
-Tic-Tac-Toe is a classic two-player game often played on a 3x3 grid. The game is known for its simplicity and is popular among children and adults alike. Here’s a brief overview of how the game works:
 
 Objective
 The main goal of Tic-Tac-Toe is to be the first player to form a horizontal, vertical, or diagonal line of three of your symbols (either "X" or "O").
 
-
-
 Gameplay:
-
 The first player usually uses "X," and the second player uses "O."
 Players alternate turns, placing their symbol in an empty cell of the grid.
 The game continues until one player successfully places three of their symbols in a row (horizontally, vertically, or diagonally) or until all squares are filled, resulting in a draw.
